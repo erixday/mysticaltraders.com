@@ -1,2 +1,0 @@
-# mysticaltraders.com
-bot
